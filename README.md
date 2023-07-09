@@ -4,7 +4,7 @@
 
 ---
 
-                                                      A passionate and self-taught engineer
+                                            A passionate and self-taught engineer
 <p>
 I am an engineer trying to improve myself in the field of software. My goal and dream is to be a successful Software Developer. That's why I constantly strive to be open to learning, adapt quickly to new technologies and trends, and dedicate time to continuously improve myself.
 </p>
@@ -54,8 +54,24 @@ I am an engineer trying to improve myself in the field of software. My goal and 
     </a>
 </p>
 
+---
 
+![Snake Eating away my contributions](https://github.com/aslihanhasar/aslihanhasar/blob/output/github-contribution-grid-snake.gif)
 
+---
+
+<h2 align='left'> Social Network </h2>
+<p align="left">
+    <a href="https://github.com/aslihanhasar">
+        <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' alt='github' height='30'>
+    </a>
+    <a href="https://www.linkedin.com/in/asl%C4%B1hanhasar/">
+        <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='30'>
+    </a>
+    <a href='' target="_blank">
+        <img src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white' />
+    </a>
+</p>
 
 
 
