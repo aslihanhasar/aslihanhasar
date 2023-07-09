@@ -47,10 +47,10 @@ I am an engineer trying to improve myself in the field of software. My goal and 
 
 <p  align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img  src="https://github-readme-stats.vercel.app/api?username=aslihanhasar&hide=prs&theme=gruvbox&show_icons=true&&cache_seconds=1900&count_private=true" alt="GitHub stats" height="140" >  
+      <img  src="https://github-readme-stats.vercel.app/api?username=aslihanhasar&hide=prs&theme=gruvbox&show_icons=true" alt="GitHub stats" height="140" >  
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aslihanhasar&theme=gruvbox&layout=compact&langs_count=8" alt="Top Langs" heigth="190">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aslihanhasar&theme=gruvbox&layout=compact" alt="Top Langs" heigth="190">
     </a>
 </p>
 
