@@ -6,7 +6,7 @@
 
                                             A passionate and self-taught engineer
 <p>
-I am an engineer trying to improve myself in the field of software. My goal and dream is to be a successful Software Developer. That's why I constantly strive to be open to learning, adapt quickly to new technologies and trends, and dedicate time to continuously improve myself.
+As a passionate engineer, my ultimate ambition is to excel in the software industry as a successful Software Developer. I am relentless in my pursuit of knowledge, constantly exploring new technologies and embracing the latest trends. With unwavering dedication, I invest significant time in honing my skills and ensuring continuous personal growth.In my journey of growth in the world of software development, my dedication to learning and adaptability is a significant trait that sets me apart.
 </p>
 
 ---
@@ -50,7 +50,7 @@ I am an engineer trying to improve myself in the field of software. My goal and 
       <img  src="https://github-readme-stats.vercel.app/api?username=aslihanhasar&hide=prs&theme=gruvbox&show_icons=true&&cache_seconds=1900&count_private=true" alt="GitHub stats" height="140" >  
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aslihanhasar&theme=gruvbox&layout=compact&langs_count=8" alt="Top Langs" heigth="190">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aslihanhasar&theme=gruvbox&layout=compact&langs_count=8" alt="Top Langs" height="190">
     </a>
 </p>
 
